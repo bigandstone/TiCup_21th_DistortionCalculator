@@ -14,5 +14,5 @@
 
 ## 开发环境
 
-keil和cubemx
-JLCEDA
+1.keil和cubemx
+2.JLCEDA
